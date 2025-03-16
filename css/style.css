@@ -494,8 +494,8 @@ footer {
 .footer-button {
   display: flex;
   align-items: center;
-  justify-self: center;
-  width: 165px;
+  justify-content: center;
+  min-width: 165px;
   height: 40px;
   background-color: #4d5ae5;
   color: white;
